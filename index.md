@@ -12,4 +12,4 @@ Click [my GitHub profile](https://github.com/Todobravo) to go to my GitHub profi
 
 ### Contact
 
-Contact us using [contact](https://www.todobravo.es/contacto/).
+Contact me using [contact](https://www.todobravo.es/contacto/).
